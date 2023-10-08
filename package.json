@@ -1,6 +1,6 @@
 {
-  "name": "@softwareasaservice/eventsworkfloww3",
-  "version": "0.0.1",
+  "name": "@softwareasaservice/eventsworkflows3",
+  "version": "0.0.2",
   "description": "S3 backend for events, from @importsaas",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
