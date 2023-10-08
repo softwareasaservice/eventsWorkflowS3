@@ -1,5 +1,5 @@
 {
-  "name": "@softwareasaservice/eventsWorkflowS3",
+  "name": "@softwareasaservice/eventsworkfloww3",
   "version": "0.0.1",
   "description": "S3 backend for events, from @importsaas",
   "main": "dist/cjs/index.js",
@@ -33,9 +33,9 @@
   "author": "importSaaS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/softwareasaservice/events/issues"
+    "url": "https://github.com/softwareasaservice/eventsWorkflowS3/issues"
   },
-  "homepage": "https://github.com/softwareasaservice/events#readme",
+  "homepage": "https://github.com/softwareasaservice/eventsWorkflowS3#readme",
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
